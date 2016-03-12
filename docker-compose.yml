@@ -1,0 +1,4 @@
+scheme:
+  build: .
+  volumes:
+      - code:/work 

@@ -32,3 +32,8 @@ RUN apt-get -y autoremove
 # WORKENV
 VOLUME ["/work"]
 WORKDIR /work
+<<<<<<< HEAD
+
+CMD ["scheme"]
+=======
+>>>>>>> 107445d37e4a3e6ed0fe5e90c602a899731d0ef9
